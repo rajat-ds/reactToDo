@@ -1,1 +1,1 @@
-This a somple todo app implemented in react.
+This a simple todo app implemented in react.
